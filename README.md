@@ -17,4 +17,4 @@ A simple weather application built with **React** and the **OpenWeatherMap API**
 - 📱 Responsive layout for desktop and mobile  
 - 🧼 Clean and minimalist user interface
 
-## 📁 Project Structure
+
