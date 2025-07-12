@@ -1,6 +1,7 @@
 # 🌦️ Weather Widget
 
 A simple weather application built with **React** and the **OpenWeatherMap API**. This app allows users to search for any city and view the current weather, including temperature, humidity, and wind speed.
+[🔗 Live-Demo](https://inspiring-moxie-7f4ac9.netlify.app/)
 
 ## 🛠️ Tech Stack
 
